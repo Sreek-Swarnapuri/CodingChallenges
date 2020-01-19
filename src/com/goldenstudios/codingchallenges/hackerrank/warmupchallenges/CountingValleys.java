@@ -1,4 +1,4 @@
-package com.goldenstudios.codingchallenges.hackerrank;
+package com.goldenstudios.codingchallenges.hackerrank.warmupchallenges;
 
 import java.util.Scanner;
 
