@@ -1,4 +1,4 @@
-package com.goldenstudios.codingchallenges.hackerrank.arrays;
+package com.goldenstudios.codingchallenges.hackerrank.arrays.easy;
 
 import java.text.SimpleDateFormat;
 import java.time.Duration;
