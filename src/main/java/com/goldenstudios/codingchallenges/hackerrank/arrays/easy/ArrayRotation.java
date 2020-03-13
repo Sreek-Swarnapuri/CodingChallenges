@@ -1,9 +1,7 @@
 package com.goldenstudios.codingchallenges.hackerrank.arrays.easy;
 
-import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.time.Instant;
-import java.util.Date;
 import java.util.Scanner;
 
 public class ArrayRotation {
