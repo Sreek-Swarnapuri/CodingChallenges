@@ -1,4 +1,4 @@
-package com.goldenstudios.codingchallenges.hackerrank.arrays;
+package com.goldenstudios.codingchallenges.hackerrank.arrays.medium;
 
 import java.util.Scanner;
 
