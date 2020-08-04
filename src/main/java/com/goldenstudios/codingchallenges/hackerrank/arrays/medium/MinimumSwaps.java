@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MinimumSwaps {
 
 
-    // Complete the minimumSwaps function below.
+    // Problem statement: https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
     static int minimumSwaps(int[] arr) {
 
         int nextPos = 0;
