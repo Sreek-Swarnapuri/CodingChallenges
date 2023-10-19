@@ -9,8 +9,5 @@
         <module name="CodingChallenges" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CodingChallenges" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
